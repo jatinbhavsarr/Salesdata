@@ -1,10 +1,16 @@
 ### **Salesdata: Profit Analysis Dashboard (2014–2017)**
 
+---
+
 **Executive Summary**  
 The **Salesdata** project focuses on analyzing profit data from **2014 to 2017**, aiming to provide insights into **profit margins**, **loss categories**, and **customer profitability**. Using **Excel**, the analysis highlights the **least profitable customers** and evaluates the overall performance of different sales categories to support decision-making and strategy refinement for profitability improvement.
 
+---
+
 **Business Problem**  
 The business struggled to identify areas where **profit margins** were low, which **customer segments** were unprofitable, and how different **categories** contributed to losses. Without a comprehensive view of profit data, it was difficult to make informed decisions to reduce losses and focus efforts on the most profitable areas, leading to inefficient allocation of resources and missed opportunities.
+
+---
 
 **Objective**  
 The primary objectives of this project were to:  
@@ -14,8 +20,12 @@ The primary objectives of this project were to:
 - **Identify least profitable customers** to target for improvement or reallocation of resources.  
 - Provide **actionable insights** that can help optimize pricing strategies and improve overall profitability.
 
+---
+
 **Tools I Use**  
 **Excel**: Used for **data cleaning**, **analysis**, and creating **visualizations** (pivot tables, charts, and dashboards).
+
+---
 
 **Suggestions**  
 - **Profit** has shown periodic peaks and troughs over **Q4 2016 and Q1 2017**, indicating fluctuations in performance during this period.  
@@ -25,8 +35,12 @@ The primary objectives of this project were to:
 - **Cindy Stewart** has contributed to negative profits, with a loss of **$6,626.37**, indicating a potential area for improvement or reassessment.  
 - Sub-categories such as **Bookcases**, **Tables**, and **Supplies** are significant loss drivers, collectively accounting for a total loss of **$22,387.14**.
 
+---
+
 **Challenges**  
 One major challenge in this project was ensuring accurate categorization of **profit** and **loss** data, especially for customers and product categories. Managing large datasets in **Excel** for multiple years required careful data transformation and consistency checks. Analyzing profit margins effectively also required complex calculations and data structuring within Excel.
+
+---
 
 **Learnings**  
 - Gained expertise in using **Excel** for profit analysis, including advanced formulas and pivot tables to track performance by quarter and category.  
